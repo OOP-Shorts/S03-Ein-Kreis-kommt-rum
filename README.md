@@ -1,5 +1,9 @@
 In dieser Aufgabe beschäftigst du dich mit den grundsätzlichen Abläufen in der _Graphics App_ und dem Einsatz des _Draw Loop_. Für die Umsetzung benötigst du neben dem Wissen über die Darstellung einfacher Objekte auch die Fähigkeit, im Code Entscheidungen zu treffen. Nutze `if`-Anweisungen, um innerhalb des _Draw Loops_ festzustellen, an welcher Stelle sich der Kreis aktuell befindet. Ein Hinweis: Mit der `Point`-Klasse kannst du Punkte innerhalb des Koordinatensystems repräsentieren.
 
+**So soll es ausschauen**
+
+![](https://files.mi.ur.de/f/1eed3aee2d6a47889a44/?dl=1)
+
 ## Relevante Kursinhalte
 
 - Vorlesung und Übungen [aus Woche 2](https://elearning.uni-regensburg.de/course/view.php?id=52262#yui_3_17_2_1_1640016692489_362)
